@@ -1,5 +1,5 @@
 cairosvg==2.9.0
-click==8.4.2
+click==8.5.0
 flake8==7.3.0
 Jinja2==3.1.6
 MarkupSafe==3.0.3
@@ -12,10 +12,10 @@ mkdocs==1.6.1
 mkdocstrings-python
 mkdocstrings==1.0.6
 pillow==12.3.0
-pip-upgrader==2.4.5
+pip-upgrader==2.4.13
 pydocstyle==6.3.0
-pymdown-extensions==11.0.1
+pymdown-extensions==11.0.2
 PyYAML==6.0.3
-hatch==1.17.1
+hatch==1.18.0
 typing-extensions==4.16.0
-mkdocs-git-revision-date-localized-plugin==1.5.3
+mkdocs-git-revision-date-localized-plugin==1.5.4
